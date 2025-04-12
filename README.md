@@ -1,53 +1,89 @@
-<h1 align="center">Hello World 👋, I'm Jahnavi Rai</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jaana2403.jaana2403" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaana2403&label=Profile%20views&color=0e75b6&style=flat" alt="jaana2403" /> </p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jahnavi+Rai!;" />
+</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaana2403" alt="jaana2403" /></a> </p>
+[![An image of @jaana2403's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jaana2403)](https://holopin.io/@jaana2403)
 
-- 🔭 I’m currently working on **Redfish Interface Emulator**
+<h3 align="center">Undergrad at RVCE | R&D Intern @ HPE | Passionate Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **ReactJS , full stack**
+<br/>
 
-- 👯 I’m looking to collaborate on **Analytics Platform**
+<div align="center">
+ 
+🌱 I’m currently learning **ReactJS, Full Stack, and Redfish Protocols**  
+🔭 I’m working on **Redfish Interface Emulator @ HPE R&D**  
+🚀 Previously built **Skin Disease Detection using Deep Learning**  
+👯 I’m looking to collaborate on **AI-powered Analytics Platforms**  
+📫 Reach me at **jannrai09112004@gmail.com**  
+🧠 Ask me about **React, JS, Python, APIs, Flask**  
+⚡ Fun fact: **I might just publish a poetry book someday!**
 
-- 🔭 I've worked on **Skin disease detection**
+ </div>
+ 
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/jahnavi-rai-a51541260/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://jaana2403.github.io/portfolio/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/jahnavirai811" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/jahnavirai123" target="_blank">
+    <img src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</div>
 
-- 👨‍💻 All of my projects are available at [https://fantastic-crisp-50cf6b.netlify.app/](https://fantastic-crisp-50cf6b.netlify.app/)
+<hr/>
 
-- 💬 Ask me about **react , javascript**
+<h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
 
-- 📫 How to reach me **jannrai09112004@gmail.com**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,python,c,cpp,matlab,git,github,vscode,linux,tailwind,arduino,tensorflow,pytorch,firebase,bootstrap" />
+</div>
 
-- ⚡ Fun fact **I think I can become poet.**
+<br/>
+<hr/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jahnavi-rai-a51541260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jahnavi-rai-a51541260/" height="30" width="40" /></a>
-<a href="https://instagram.com/jahnavirai811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jahnavirai811" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jahnavirai123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jahnavirai123" height="30" width="40" /></a>
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jaana2403&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</div>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaana2403&bg_color=1d1c1f&color=ffffff&line=00bfff&point=ffffff&area=true&hide_border=false">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaana2403&show_icons=true&locale=en&layout=compact" alt="jaana2403" /></p>
+<h2 align="center">📊 GitHub Stats 📊</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaana2403&show_icons=true&locale=en" alt="jaana2403" /></p>
+<div align="center">
+  <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=jaana2403&theme=radical&border_radius=10" />
+  <br/><br/>
+  <img width=400 src="https://github-readme-stats.vercel.app/api?username=jaana2403&show_icons=true&theme=radical&rank_icon=github&border_radius=10" />
+  <br/><br/> 
+  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaana2403&langs_count=8&layout=compact&theme=radical&border_radius=10" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaana2403&" alt="jaana2403" /></p>
+<br/><br/>
 
-<!--
-**jaana2403/jaana2403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr/>
 
-Here are some ideas to get you started:
+<p align="center">
+    <img src="https://leetcard.jacoblin.cool/jahnavirai123?theme=dark&font=Nanum%20Gothic&ext=heatmap" alt="LeetCode Stats" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://ko-fi.com/jahnavirai" target="_blank">
+    <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+  </a>
+</div>
